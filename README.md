@@ -1,4 +1,4 @@
-# New Project
+# new-project
 
 Diese Website wurde mit dem AI Website Builder erstellt und als React/TypeScript-Projekt exportiert.
 
